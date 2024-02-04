@@ -1,0 +1,13 @@
+
+<h1>День 3</h1>
+<h3>Работа с изображением, аудио и видео файлами</h3>
+
+<img width="400px" src="images/igra_assasins.jpg"/>
+<h4><a download href="images/igra_assasins.jpg">Игра Ассасинс скачать</a></h4>
+
+<audio controls src="audio/music_mot_den_i_noch.mp3"></audio>
+<h4><a download href="audio/music_mot_den_i_noch.mp3">Скачать музыку</a></h4>
+
+
+<video width="400px" poster="images/tojikiston_ismoili_somoni.jpg" controls src="video/video_tojikiston.mp4"></video>
+<h4><a download href="video/video_tojikiston.mp4">Скачать видео</a></h4>
